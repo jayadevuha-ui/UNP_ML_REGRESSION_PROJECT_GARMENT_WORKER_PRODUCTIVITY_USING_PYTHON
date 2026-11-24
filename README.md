@@ -5,6 +5,16 @@ This project was completed as part of the United Network of Professionals (UNP) 
 
 The project focuses on predicting garment workers' productivity using machine learning and statistical analysis. It aims to understand how workplace conditions, operational factors, and employee-related variables influence productivity in the garment manufacturing industry.
 
+This was a collaborative academic project completed by Team 3:
+
+Akula Siri
+
+K Jayadeva Satyavamsi
+
+P Harshit
+
+Peruri Ramya Sree
+
 Project Overview
 - Analyzed a dataset containing 1,197 records and 15 attributes related to garment production.
 - Conducted exploratory data analysis (EDA) to identify patterns, trends, and relationships affecting worker productivity.
@@ -32,4 +42,4 @@ GOOGLE COLAB FILE LINK :
 https://drive.google.com/file/d/1CqrlMCSe-XGi7H6Cp7jNmZ9ZAr4xkVSq/view?usp=sharing
 
 PROJECT PRESENTATION FILE LINK :
-https://docs.google.com/presentation/d/1clpn0Cxo6tUd2RY-xwnMDnE2szp6AVhF/edit?usp=sharing&ouid=114997293715196594124&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1Cas0Upu0B2mcf7jxHh0Gy-EoxYogfEuQ/edit?usp=sharing&ouid=114997293715196594124&rtpof=true&sd=true
